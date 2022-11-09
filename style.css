@@ -1,0 +1,41 @@
+.box{
+    width: 373px;
+    height: 300px; 
+    margin-left: 30%;
+    margin-top: 140px;
+    position: relative;
+    border-radius: 5px;
+    box-shadow:0 4px 8px 0 rgba(17, 95, 109, 0.678), 0 6px 20px 0 rgb(0 0 0 / 19%);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: rgb(243, 255, 246);
+}
+.tab{
+    height: 200px;
+    
+    font-weight:bold;
+    margin-left: 20px;
+    padding-top: 0px;
+    
+}
+.input{
+    border: 0px;
+    background-color:rgb(243, 255, 246);
+    margin-left:15px;
+    
+}
+.input2{
+    border-color: rgb(124, 124, 124);
+    border-radius: 5px;
+    height: 30px;
+    margin-left: 15px;
+    background-color: rgb(243, 255, 246);
+    
+}
+.head{
+    margin-left:80px;
+    padding-top: 15px;
+    color: rgb(0, 83, 83);
+}
+.light{
+    color: rgb(109, 109, 109);
+}
